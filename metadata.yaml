@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5874'
     url: http://www.gutenberg.org/2009/agents/5874
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15133#Campfire-Girls-in-the-Allegheny-Mountainsor-A-Christmas-Success-against-Odds
 gutenberg_bookshelf:
 - Children's Book Series
 - Christmas

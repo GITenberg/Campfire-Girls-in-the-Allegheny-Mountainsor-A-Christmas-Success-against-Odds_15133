@@ -1,0 +1,29 @@
+_repo: Campfire-Girls-in-the-Allegheny-Mountainsor-A-Christmas-Success-against-Odds_15133
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15133-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Francis, Stella M.
+    gutenberg_agent_id: '5874'
+    url: http://www.gutenberg.org/2009/agents/5874
+description: ''
+gutenberg_bookshelf:
+- Children's Book Series
+- Christmas
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Campfire Girls in the Allegheny Mountains
+
+  or, A Christmas Success against Odds'
+url: http://www.gutenberg.org/ebooks/15133
